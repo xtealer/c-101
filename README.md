@@ -38,6 +38,12 @@ my networks (if you find them):
    it's average is below.
 
 2. Given a employee's **worked hours**, **per hour salary** and **deductions** calculate it's net salary,
-   depending on this raise by a defined percentage it's current base salary. - `net salary 1000 or less: 25% base salary raise` - `salary more than 1000 and up to 1500: 21% base salary raise` - `salary more than 1500: 18% base salary raise`
+   depending on this raise by a defined percentage it's current base salary.
+
+   - `net salary 1000 or less: 25% base salary raise`
+
+   - `salary more than 1000 and up to 1500: 21% base salary raise`
+
+   - `salary more than 1500: 18% base salary raise`
 
 3.
