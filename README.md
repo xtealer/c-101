@@ -141,4 +141,10 @@ my networks (if you find them):
 
 6. Get the cost of a product given price and units ordered. Discount 10% if costs exceed \$500.00 (after taxes).
 
-7.
+7. Ask for **50 int values** and determine classify them with the following criteria:
+
+   - positive or negative
+
+   - odd or even
+
+8.
