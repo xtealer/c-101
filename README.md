@@ -34,4 +34,7 @@ my networks (if you find them):
 
 ## MODULE 2 - Advanced Logic, Arrays and Iterators
 
-Coming soon...
+1. Given **5 califications** of a student, show Approved if it's **average** is at least 71 or Failed if
+   it's average is below.
+
+2.
