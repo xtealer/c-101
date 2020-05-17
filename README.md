@@ -125,4 +125,6 @@ my networks (if you find them):
 
    - `celcius = ((fahrenheit - 32) * 5) / 9`
 
-4.
+4. Ask for one **int value** between 1 and 9 inclusive, then calculate it's exponentiation up to 2000.
+
+5.
