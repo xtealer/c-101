@@ -1,6 +1,7 @@
 /*
 * module 2
 * problem 1
+*
 * Given **5 califications** of a student, show Approved if it's **average** is at least 71
 * or Failed if it's average is below.
 */
