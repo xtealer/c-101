@@ -46,4 +46,14 @@ my networks (if you find them):
 
    - `salary more than 1500: 18% base salary raise`
 
-3.
+3. Given int values for **a** and **b** show as result the following values.
+
+   - `100 * b if a = 1`
+
+   - `100 + b if a = 2`
+
+   - `100 / b if a = 3`
+
+   - `0 if any other number`
+
+4.
