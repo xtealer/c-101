@@ -155,4 +155,6 @@ my networks (if you find them):
 
 11. show the number of vowels inside a phrase that is ender by a (.) dot .
 
-12.
+12. Given a bills, calculate how many bills are needed (least amount of them);
+
+13.
