@@ -120,3 +120,9 @@ my networks (if you find them):
 1. Print on screen the square and cube of the first 25 natural numbers.
 
 2. Given a **int number**, calculate it's **factorial value**.
+
+3. Convert to Celcius degrees the temperature values from 1 to 200 Fahrenheit.
+
+   - `celcius = ((fahrenheit - 32) * 5) / 9`
+
+4.
