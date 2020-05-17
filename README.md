@@ -147,4 +147,4 @@ my networks (if you find them):
 
    - odd or even
 
-8.
+8. Get the SUM and PRODUCT of odd values in range of 20 to 400 (inclusive).
