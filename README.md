@@ -56,4 +56,6 @@ my networks (if you find them):
 
    - `0 if any other number`
 
-4.
+4. Given int values of **a**, **b** and **c** show them in descendant order in screen.
+
+5.
