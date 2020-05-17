@@ -58,4 +58,9 @@ my networks (if you find them):
 
 4. Given int values of **a**, **b** and **c** show them in descendant order in screen.
 
-5.
+5. Calculate the **cost** of a two ways plane ticket after asking the **distace** to be flown and how many **days** the passenger will be staying at it's destination hotel depending on the following criteria:
+
+- if staying more than 7 days and the flight to and from the destination combined is more than 800KMs,
+  apply a 30% discount.
+
+- The price per KM is \$1.25
