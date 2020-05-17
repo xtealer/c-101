@@ -32,7 +32,7 @@ my networks (if you find them):
 
 10. Given values **a**, **b** and **c** solve the following equation `(a * (3 + b)) / (c *(3 - b))`, show the answer as output.
 
-## MODULE 2 - Advanced Logic, Arrays and Iterators
+## MODULE 2 - Arrays, Iterators and Conditionals I
 
 1. Given **5 califications** of a student, show Approved if it's **average** is at least 71 or Failed if
    it's average is below.
@@ -102,3 +102,17 @@ my networks (if you find them):
    - `1 yard = 0.9144M`
 
    - `1 mile = 1.6093KMs`
+
+10. Calculate the cost per patient in a hospital, given their **discease** and **age** using the following params:
+
+    - `if age > 14 and < 22; cost + 10%`
+
+    - `type 1: $25/day`
+
+    - `type 2: $16/day`
+
+    - `type 3: $20/day`
+
+    - `type 4: $32/day`
+
+## Module 3 - Advanced Logic, Arrays and Iterators II
