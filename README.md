@@ -116,3 +116,7 @@ my networks (if you find them):
     - `type 4: $32/day`
 
 ## Module 3 - Advanced Logic, Arrays and Iterators II
+
+1. Print on screen the square and cube of the first 25 natural numbers.
+
+2.
