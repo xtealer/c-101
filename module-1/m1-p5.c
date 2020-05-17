@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 /* entry point */
-int main()
+int main(int argc, char *argv[])
 {
     float a, n, suma, resta, multip;
 
