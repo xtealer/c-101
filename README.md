@@ -95,4 +95,10 @@ my networks (if you find them):
 
    - `25: Africa: $4.00/min`
 
-9.
+9. Convert the following measure units from - to as follow:
+
+   - `1 inch = 25.40mm`
+
+   - `1 yard = 0.9144M`
+
+   - `1 mile = 1.6093KMs`
