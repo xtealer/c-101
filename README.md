@@ -32,6 +32,6 @@ my networks (if you find them):
 
 10. Given values **a**, **b** and **c** solve the following equation `(a * (3 + b)) / (c *(3 - b))`, show the answer as output.
 
-## MODULE 2 - Advanced Logic and Iterators
+## MODULE 2 - Using Iterators
 
 Coming soon...
