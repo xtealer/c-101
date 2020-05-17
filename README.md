@@ -37,4 +37,7 @@ my networks (if you find them):
 1. Given **5 califications** of a student, show Approved if it's **average** is at least 71 or Failed if
    it's average is below.
 
-2.
+2. Given a employee's **worked hours**, **per hour salary** and **deductions** calculate it's net salary,
+   depending on this raise by a defined percentage it's current base salary. - `net salary 1000 or less: 25% base salary raise` - `salary more than 1000 and up to 1500: 21% base salary raise` - `salary more than 1500: 18% base salary raise`
+
+3.
