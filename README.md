@@ -72,3 +72,13 @@ my networks (if you find them):
    - `Purchase amount 500 >= and < 1000; discount = 5%`
 
    - `Purchase amount >= 1000; discount = 11%`
+
+7. Given the **cost** of a vehicle and it's **brand**, calculate a discount based on the following table:
+
+   - `toyota: 8%`
+
+   - `suzuki: 10%`
+
+   - `nissan: 12%`
+
+   - `dodge: 15%`
