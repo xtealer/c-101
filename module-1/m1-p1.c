@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 /* program entry point */
-int main()
+int main(int argc, char *argv[])
 {
     float r = 0, a, b, y;
 
