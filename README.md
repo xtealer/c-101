@@ -119,4 +119,4 @@ my networks (if you find them):
 
 1. Print on screen the square and cube of the first 25 natural numbers.
 
-2.
+2. Given a **int number**, calculate it's **factorial value**.
