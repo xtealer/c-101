@@ -151,4 +151,4 @@ my networks (if you find them):
 
 9. Given a **int number**, get it's product from 1 to 12 multipliers.
 
-10.
+10. Get 3 multiples up to 30, starting from 3.
