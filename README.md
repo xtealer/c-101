@@ -127,4 +127,16 @@ my networks (if you find them):
 
 4. Ask for one **int value** between 1 and 9 inclusive, then calculate it's exponentiation up to 2000.
 
-5.
+5. Given **n** grades from a student, get the following data:
+
+   - `number of Failed Subjects`
+
+   - `number of Approved Subjects`
+
+   - `grades average`
+
+   - `approved grades average`
+
+   - `failed grades average`
+
+6.
