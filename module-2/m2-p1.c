@@ -1,19 +1,41 @@
-// Problema 1 Laboratorio 2
+/*
+* module 2
+* problem 1
+* Given **5 califications** of a student, show Approved if it's **average** is at least 71
+* or Failed if it's average is below.
+*/
+
+/* imported libraries */
 #include <stdio.h>
-int main(){
-    int calif, cic;
-    float prome;
-    for(cic = 1; cic < 6; cic = cic + 1){
-        printf("Ingrese la Calificacion %d\n", cic);
-        scanf(" %d", &calif);
-        prome = prome + calif;
+
+/* entry point */
+int main(int argc, char *argv[])
+{
+    int calif;
+    float average;
+
+    for (int i = 0; i < 5; i++)
+    {
+        printf("Ingrese la Calificacion %d\n", i + 1);
+        scanf("%d", &calif);
+
+        /* remove \n */
+        getchar();
+
+        average = average + calif;
     }
-    prome = (prome / 5);
-    if (prome >= 71){
-        printf("++++++++++APROBADO++++++++++\nPromedio de %.2f\n", prome);    
-    } else if(prome < 71){
-        printf("----------REPROBADO----------\nPromedio de %.2f\n", prome);
+
+    average = average / 5;
+
+    if (average >= 71)
+    {
+        printf("++++++++++APROBADO++++++++++\npromedio de %.2f\n", average);
     }
-    getchar(); getchar();
+    else if (average < 71)
+    {
+        printf("----------REPROBADO----------\npromedio de %.2f\n", average);
+    }
+    getchar();
+
     return 0;
 }
