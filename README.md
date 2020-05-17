@@ -1,6 +1,6 @@
 # C-101
 
-C 101 programs developed in 2018 at my second semester of college on [Technological University of Panama](http://utp.ac.pa)
+C 101 programs developed in 2018 during my second semester of college on [Technological University of Panama](http://utp.ac.pa)
 
 Questions?
 
