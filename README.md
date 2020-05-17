@@ -18,7 +18,7 @@ my networks (if you find them):
 
 3. Given values **a**, **b** and **c** solve the following equation `(c + b) * (3 - b) / 4^4`, show the answer as output.
 
-4. Given **height** and **width** of a rectangle, calculate and print on screen the area and perimeter of it `area = height * width; perimeter = 2 * (height + width)`.
+4. Given the **height** and **width** of a rectangle, calculate and print on screen the area and perimeter of it `area = height * width; perimeter = 2 * (height + width)`.
 
 5. Given **float** values **a** and **b** calculate their sum, substraction and multiplication, show the answer as output.
 
