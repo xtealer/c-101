@@ -139,4 +139,6 @@ my networks (if you find them):
 
    - `failed grades average`
 
-6.
+6. Get the cost of a product given price and units ordered. Discount 10% if costs exceed \$500.00 (after taxes).
+
+7.
