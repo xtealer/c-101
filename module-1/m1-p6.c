@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 /* entry point */
-int main()
+int main(int argc, char *argv[])
 {
    int x = 0, y = 0, a = 0, b = 0;
    float r = 0;
@@ -33,7 +33,6 @@ int main()
    r = (x - y) / (3 * (a * b));
 
    printf("Respuesta %.2f\n", r);
-
    printf("\n\nPress Any Key To Exit ...");
    getchar();
 
