@@ -1,5 +1,7 @@
 /*
-* module 1 - problem 3
+* module 1
+* problem 3
+*
 * Given values **a**, **b** and **c** solve the following equation
 * `(c + b) * (3 - b) / 4^4`, show the answer as output.
 */

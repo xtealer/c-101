@@ -1,7 +1,8 @@
 /*
-* module 1 - problem 1
-* Given values a, b and y
-* solve the following equation `(y + b) / (a - b)`,
+* module 1
+* problem 1
+*
+* Given values a, b and y solve the following equation `(y + b) / (a - b)`,
 * show the answer as output.
 */
 

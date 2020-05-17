@@ -1,5 +1,7 @@
 /*
-* module 1 - problem 2
+* module 1
+* problem 2
+*
 * Given values **a** and **b** solve the following equation `(x + y) / 3`,
 * show the answer as output.
 */
