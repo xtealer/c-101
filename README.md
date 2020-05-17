@@ -82,3 +82,17 @@ my networks (if you find them):
    - `nissan: 12%`
 
    - `dodge: 15%`
+
+8. Ask for the destination of a call and it's length to get to know the final cost based on this table:
+
+   - `12: North Americas: $2.00/min`
+
+   - `18: South Americas: $2.50/min`
+
+   - `19: Europe: $3.00/min`
+
+   - `23: Asia: $3.50/min`
+
+   - `25: Africa: $4.00/min`
+
+9.
