@@ -60,7 +60,15 @@ my networks (if you find them):
 
 5. Calculate the **cost** of a two ways plane ticket after asking the **distace** to be flown and how many **days** the passenger will be staying at it's destination hotel depending on the following criteria:
 
-- if staying more than 7 days and the flight to and from the destination combined is more than 800KMs,
-  apply a 30% discount.
+   - if staying more than 7 days and the flight to and from the destination combined is more than 800KMs,
+     apply a 30% discount.
 
-- The price per KM is \$1.25
+   - The price per KM is \$1.25
+
+6. Give buyers a discount depending on the following criteria:
+
+   - `Purchase amount < 500; discound = 0%`
+
+   - `Purchase amount 500 >= and < 1000; discount = 5%`
+
+   - `Purchase amount >= 1000; discount = 11%`
