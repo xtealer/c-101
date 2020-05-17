@@ -152,3 +152,7 @@ my networks (if you find them):
 9. Given a **int number**, get it's product from 1 to 12 multipliers.
 
 10. Get 3 multiples up to 30, starting from 3.
+
+11. show the number of vowels inside a phrase that is ender by a (.) dot .
+
+12.
