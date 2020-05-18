@@ -258,3 +258,15 @@ my networks (if you find them):
     - Percentage of persons that age > 17
 
     - Percentage of persons that age < 18
+
+11. Ask the montly total sales of a store and show the following:
+
+    - `The Month with more sales`
+
+    - `The Month with less sales`
+
+    - `Total sales during the year`
+
+    - `Year sales average`
+
+12.
