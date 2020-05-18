@@ -1,13 +1,24 @@
 # C-101
 
-C 101 programs developed in 2018 during my second semester of college on [Technological University of Panama](http://utp.ac.pa)
+C 101 programs developed in 2018 during my second semester of college on [Technological University of Panama](http://utp.ac.pa). Special thanks to my Professor Denis Cedeño for all her advice and lessons about
+the language, too for providing these excersises!
 
-Questions?
+Questions about the problems presented here:
+
+Denis Cedeño:
+
+email contact: deniscedeno15@gmail.com
+
+Questions about my code solutions?
+
+Enrique Shunnar
 
 email me (preferred):
+
 xtealer00@gmail.com
 
 my networks (if you find them):
+
 @xt34l3r
 
 ## MODULE 1 - The Basics
