@@ -157,4 +157,8 @@ my networks (if you find them):
 
 12. Given a bills, calculate how many bills are needed (least amount of them);
 
-13.
+13. Ask for amount of cash (including coins) and verify the number bills of $1, $5, $10, $20 and the number of coins of value $0.01, $0.05, $0.10, $0.25 and \$0.50.
+
+14. Generate the FIBONACCI series up to a given number by the user.
+
+## Module 4 -
