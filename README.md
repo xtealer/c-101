@@ -239,4 +239,4 @@ my networks (if you find them):
 
    - `find how many letters are consonants`
 
-7.
+7. Find the number of words in a given string. Every new word comes after a space character.
