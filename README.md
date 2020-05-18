@@ -268,5 +268,3 @@ my networks (if you find them):
     - `Total sales during the year`
 
     - `Year sales average`
-
-12.
