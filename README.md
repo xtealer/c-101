@@ -191,4 +191,16 @@ my networks (if you find them):
 
 2. Ask for a word and an int value between 1 and 5 (inclusive), codify it swaping the letter 3 characters away with the current one and returning to the first one of the word if overflow happens.
 
-3.
+3. Fill a 10x10 Matrix with positive int numbers, do the following operations:
+
+   - `Load the first diagonal line in a vector`
+
+   - `Show the sum of both diagonal`
+
+   - `Show the sum of the four corners`
+
+   - `Show the sum of the cross`
+
+   - `Find an item comparing to the ones readed`
+
+4.
