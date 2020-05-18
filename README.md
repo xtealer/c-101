@@ -187,4 +187,6 @@ my networks (if you find them):
 
 ## Module 4 - Advanced Data Types and Pointers
 
-Coming soon...
+1. Ask for int positive number, show them on screen in ascendant order.
+
+2.
