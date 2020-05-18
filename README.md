@@ -244,3 +244,17 @@ my networks (if you find them):
 8. Replace every `c` for a `*` inside a given string. Don't use the replace function.
 
 9. Remove all whitespaces from a given string and show the result on screen.
+
+10. Read the data from 50 persons and show as output the following:
+
+    - How many Men that age > 17
+
+    - How many women that age < 18
+
+    - Total of persons that age > 17
+
+    - Total of persons that age < 18
+
+    - Percentage of persons that age > 17
+
+    - Percentage of persons that age < 18
