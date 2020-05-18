@@ -204,3 +204,25 @@ my networks (if you find them):
    - `Find an item comparing to the ones readed`
 
 4. Show on screen the letters inside a given word in alphabetic order.
+
+5. Store 5 int values in a vector and solve the following operations:
+
+   - `print the items on screen`
+
+   - `sum and the items and show on screen`
+
+   - `find the average of these`
+
+   - `find the amount of even numbers`
+
+   - `find the amount of odd number`
+
+   - `find the amount of negative numbers`
+
+   - `find the amount of positive numbers`
+
+   - `find the sum of numbers between 50 and 100 (inclusive)`
+
+   - `find the average of numbers between 100 and 200 (inclusive)`
+
+6.
