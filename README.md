@@ -189,4 +189,6 @@ my networks (if you find them):
 
 1. Ask for int positive number, show them on screen in ascendant order.
 
-2.
+2. Ask for a word and an int value between 1 and 5 (inclusive), codify it swaping the letter 3 characters away with the current one and returning to the first one of the word if overflow happens.
+
+3.
