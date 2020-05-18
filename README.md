@@ -243,4 +243,4 @@ my networks (if you find them):
 
 8. Replace every `c` for a `*` inside a given string. Don't use the replace function.
 
-9.
+9. Remove all whitespaces from a given string and show the result on screen.
