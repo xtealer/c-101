@@ -161,4 +161,28 @@ my networks (if you find them):
 
 14. Generate the FIBONACCI series up to a given number by the user.
 
-## Module 4 -
+15. Create a program to replicate the following series:
+
+    - 1 + 2 + 3 + 4 + 5 + 6
+
+    - 2 + 4 + 6 + 8 + 10
+
+    - 3 + 6 + 9 + 12
+
+    - (1/1) + (1/2) + (1/3) + (1/4)
+
+    - 5 - 10 + 15 - 20 + 25 - 30
+
+    - 1 \* 2 \* 3 \* 4 \* 5 \* 6
+
+    - 2 \* 4 \* 6 \* 8 \* 10
+
+    - 1 + (1 + 2) + (1 + 2 + 3) + (1 + 2 + 3 + 4)
+
+    - 1 \* 3 \* 6 \* 10 \* 15 \* 21
+
+    - 1 + 2^2 + 3^3 + N^N
+
+    - 1 + 1/2 + 1/3 + 1/N
+
+## Module 4 - Advanced Data Types and Pointers
