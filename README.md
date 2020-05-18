@@ -240,3 +240,7 @@ my networks (if you find them):
    - `find how many letters are consonants`
 
 7. Find the number of words in a given string. Every new word comes after a space character.
+
+8. Replace every `c` for a `*` inside a given string. Don't use the replace function.
+
+9.
