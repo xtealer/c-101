@@ -3,23 +3,23 @@
 C 101 programs developed in 2018 during my second semester of college on [Technological University of Panama](http://utp.ac.pa). Special thanks to my Professor Denis Cedeño for all her advice and lessons about
 the language, too for providing these excersises!
 
-Questions about the problems presented here:
+- Questions about the problems presented here:
 
-Denis Cedeño:
+  Denis Cedeño:
 
-email contact: deniscedeno15@gmail.com
+  email contact: deniscedeno15@gmail.com
 
-Questions about my code solutions?
+* Questions about my code solutions?
 
-Enrique Shunnar
+  Enrique Shunnar
 
-email me (preferred):
+  email me (preferred):
 
-xtealer00@gmail.com
+  xtealer00@gmail.com
 
-my networks (if you find them):
+  my networks (if you find them):
 
-@xt34l3r
+  @xt34l3r
 
 ## MODULE 1 - The Basics
 
