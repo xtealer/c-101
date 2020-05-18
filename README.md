@@ -225,4 +225,18 @@ my networks (if you find them):
 
    - `find the average of numbers between 100 and 200 (inclusive)`
 
-6.
+6. Read 10 leters as chars and do the following operations:
+
+   - `show the vector on screen`
+
+   - `show the vector on screen reversed`
+
+   - `convert all characters to uppercase`
+
+   - `convert all characters to lowercase`
+
+   - `find how many letters are vowels`
+
+   - `find how many letters are consonants`
+
+7.
