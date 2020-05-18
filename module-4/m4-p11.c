@@ -39,7 +39,7 @@ void poss(int *mes, float *vntas)
                 {
                     if (ram == mes[z])
                     {
-                        printf("\n    El Mes Ingresado Ya Fue Leido!\n");
+                        printf("\n    ERROR: %s Ya Fue Leido!\n", meses[ram - 1]);
                         z = 0;
                         break;
                     }
@@ -53,7 +53,7 @@ void poss(int *mes, float *vntas)
 
         mes[ram - 1] = ram;
 
-        printf("\n    Ingrese El Monto De Ventas\n    > ");
+        printf("\n    Ventas %s: $", meses[ram - 1]);
         scanf("%f", &vntas[ram - 1]);
 
         /* remove \n */
