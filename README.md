@@ -203,4 +203,4 @@ my networks (if you find them):
 
    - `Find an item comparing to the ones readed`
 
-4.
+4. Show on screen the letters inside a given word in alphabetic order.
